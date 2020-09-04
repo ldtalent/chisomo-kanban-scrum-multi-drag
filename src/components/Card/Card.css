@@ -19,6 +19,10 @@ hr {
   position: relative;
 }
 
+.cardIsMoving {
+  background: #ddd;
+}
+
 .Card:focus {
   border: 1px solid #2b8dd6;
 }
